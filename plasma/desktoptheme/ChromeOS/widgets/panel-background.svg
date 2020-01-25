@@ -14,7 +14,7 @@
    viewBox="0 0 173 56"
    id="svg200"
    sodipodi:docname="panel-background.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata204">
     <rdf:RDF>
@@ -36,14 +36,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-height="696"
      id="namedview202"
      showgrid="true"
-     inkscape:zoom="4.8884376"
-     inkscape:cx="59.051524"
-     inkscape:cy="37.346681"
+     inkscape:zoom="19.55375"
+     inkscape:cx="142.6113"
+     inkscape:cy="28.555428"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg200"
      showguides="true"
@@ -712,7 +712,7 @@
      style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1.41421354" />
   <g
      id="mask-top"
-     transform="matrix(0.37500035,0,0,1.3333309,137.87498,-1207.814)">
+     transform="matrix(0.37500035,0,0,1.2499972,137.87498,-1131.9501)">
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
        style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.54919255"
@@ -724,7 +724,7 @@
   </g>
   <g
      id="mask-topleft"
-     transform="matrix(1.5999984,0,0,1.5999984,108.20002,-1450.578)">
+     transform="matrix(1.5000001,0,0,1.4999969,109.5,-1359.5404)">
     <path
        style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke-width:2.00000024"
        d="m 23,910.36218 c -5.539984,0 -10,4.46002 -10,10 h 10 z"
@@ -733,7 +733,7 @@
   </g>
   <g
      id="mask-topright"
-     transform="matrix(2.0000063,0,0,2.0000063,58.999644,-1814.7301)">
+     transform="matrix(1.8750034,0,0,1.8750029,66.124807,-1700.9318)">
     <path
        style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke-width:1.5999974"
        d="m 49.000013,910.36218 v 7.99999 H 57 c 0,-4.43198 -3.568007,-7.99999 -7.999987,-7.99999 z"
@@ -742,7 +742,7 @@
   </g>
   <g
      id="mask-bottom"
-     transform="matrix(0.37500035,0,0,1.6000039,137.87498,-1476.9833)">
+     transform="matrix(0.37500035,0,0,1.5000009,137.87498,-1381.5442)">
     <rect
        y="-51"
        x="944.36224"
@@ -754,7 +754,7 @@
   </g>
   <g
      id="mask-bottomleft"
-     transform="matrix(1.3333333,0,0,1.3333333,111.66667,-1222.4829)">
+     transform="matrix(1.2499998,0,0,1.2499979,112.75001,-1142.9508)">
     <path
        style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke-width:2.40000796"
        d="m 13,942.36218 c 0,6.64797 5.35202,12 12,12 v -12 z"
@@ -763,7 +763,7 @@
   </g>
   <g
      id="mask-bottomright"
-     transform="matrix(1.3333333,0,0,1.3333333,97,-1222.4829)">
+     transform="matrix(1.2499998,0,0,1.2499979,101.75001,-1142.9508)">
     <path
        style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke-width:2.40000796"
        d="m 45,942.36218 v 12 c 6.64798,0 12,-5.35203 12,-12 z"
@@ -772,7 +772,7 @@
   </g>
   <g
      id="mask-left"
-     transform="matrix(1.3333334,0,0,0.60000604,111.66666,-531.42288)">
+     transform="matrix(1.2500005,0,0,0.60000604,112.74999,-531.42288)">
     <rect
        y="922.36218"
        x="-25"
@@ -784,7 +784,7 @@
   </g>
   <g
      id="mask-right"
-     transform="matrix(1.6000011,0,0,0.37500479,81.799948,-321.64022)">
+     transform="matrix(1.5000009,0,0,0.37500479,87.499958,-321.64022)">
     <rect
        style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41421449"
        id="rect4323"
