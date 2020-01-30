@@ -36,14 +36,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="692"
+     inkscape:window-height="710"
      id="namedview73"
      showgrid="true"
-     inkscape:zoom="3.4766084"
-     inkscape:cx="21.909613"
-     inkscape:cy="19.981491"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="41.405209"
+     inkscape:cy="20.308899"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg71">
     <inkscape:grid
@@ -130,7 +130,7 @@
        inkscape:connector-curvature="0"
        id="path855"
        d="M 13.818182,41.999999 A 5.8181817,5.8181817 0 0 1 8,47.81818 5.8181817,5.8181817 0 0 1 2.1818182,41.999999 5.8181817,5.8181817 0 0 1 8,36.181817 a 5.8181817,5.8181817 0 0 1 5.818182,5.818182 z"
-       style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.83116883" />
+       style="fill:#333333;fill-opacity:1;stroke-width:0.83116883" />
     <rect
        id="rect857"
        transform="rotate(90)"
@@ -154,7 +154,7 @@
        inkscape:connector-curvature="0"
        id="path863"
        d="M 13.818182,25.999999 A 5.8181817,5.8181817 0 0 1 8,31.81818 5.8181817,5.8181817 0 0 1 2.1818182,25.999999 5.8181817,5.8181817 0 0 1 8,20.181817 a 5.8181817,5.8181817 0 0 1 5.818182,5.818182 z"
-       style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.83116883" />
+       style="fill:#333333;fill-opacity:1;stroke-width:0.83116883" />
     <path
        id="path865"
        transform="matrix(0.72727273,0,0,0.72727273,0,18)"
@@ -176,7 +176,7 @@
        inkscape:connector-curvature="0"
        id="path871"
        d="M 13.818182,57.999999 A 5.8181817,5.8181817 0 0 1 8,63.81818 5.8181817,5.8181817 0 0 1 2.1818182,57.999999 5.8181817,5.8181817 0 0 1 8,52.181817 a 5.8181817,5.8181817 0 0 1 5.818182,5.818182 z"
-       style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.83116883" />
+       style="fill:#333333;fill-opacity:1;stroke-width:0.83116883" />
     <path
        inkscape:connector-curvature="0"
        id="path873"
