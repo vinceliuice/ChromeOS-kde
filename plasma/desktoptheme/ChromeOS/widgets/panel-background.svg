@@ -14,7 +14,7 @@
    viewBox="0 0 173 56"
    id="svg200"
    sodipodi:docname="panel-background.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata204">
     <rdf:RDF>
@@ -36,12 +36,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="696"
+     inkscape:window-height="700"
      id="namedview202"
      showgrid="true"
-     inkscape:zoom="19.55375"
-     inkscape:cx="142.6113"
-     inkscape:cy="28.555428"
+     inkscape:zoom="39.1075"
+     inkscape:cx="67.220531"
+     inkscape:cy="9.1960286"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -538,34 +538,34 @@
      id="center"
      style="color:#eff0f1;opacity:0.8;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.3750031" />
   <rect
-     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.81648964"
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.7070992"
      id="hint-top-margin"
      width="4"
-     height="3.9999485"
+     height="2.9999487"
      x="64"
      y="6.0000515" />
   <rect
-     y="46"
+     y="47"
      x="64"
-     height="4.0000477"
+     height="3.0000477"
      width="4"
      id="hint-bottom-margin"
-     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.81650317" />
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.70711386" />
   <rect
      y="-88.000015"
      x="26.000051"
-     height="4.0000153"
+     height="3.0000153"
      width="4"
      id="hint-right-margin"
-     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.81649715"
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.70710778"
      transform="rotate(90)" />
   <rect
-     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.81649631"
+     style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.70710653"
      id="hint-left-margin"
      width="4"
-     height="4"
+     height="3"
      x="26.000051"
-     y="-48"
+     y="-47"
      transform="rotate(90)" />
   <g
      id="shadow-top"
