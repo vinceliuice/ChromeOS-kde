@@ -19,7 +19,7 @@ In this repository you'll find:
 
 - For better looking please use this pack with [Kvantum engine](https://github.com/tsujan/Kvantum/tree/master/Kvantum).
 
-  Run `kvantummanager` to choose and apply **Layan** theme.
+  Run `kvantummanager` to choose and apply **ChromeOS** theme.
 
 - Install [Tela icon theme](https://github.com/vinceliuice/Tela-icon-theme) for a more consistent and beautiful experience.
 
