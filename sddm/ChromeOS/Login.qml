@@ -45,18 +45,20 @@ SessionManagementScreen {
         implicitHeight: root.height / 28
         font.family: config.Font || "Noto Sans"
         font.pointSize: usernameFontSize
-        opacity: 0.5
+        opacity: 1.0
         text: lastUserName
         visible: showUsernamePrompt
         focus: showUsernamePrompt && !lastUserName //if there's a username prompt it gets focus first, otherwise password does
         placeholderText: i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Username")
 
         style: TextFieldStyle {
-            textColor: "black"
-            placeholderTextColor: "black"
+            textColor: "white"
+            placeholderTextColor: "white"
             background: Rectangle {
-                radius: 100
-                color: "white"
+                radius: 6
+                border.color: "#1A73E8"
+                border.width: 2
+                color: "#262626"
             }
         }
     }
@@ -68,7 +70,7 @@ SessionManagementScreen {
         Layout.minimumHeight: 32
         implicitHeight: usernameFontSize * 2.85
         font.pointSize: usernameFontSize * 0.8
-        opacity: passwordFieldOutlined ? 1.0 : 0.5
+        opacity: passwordFieldOutlined ? 1.0 : 1.0
         font.family: config.Font || "Noto Sans"
         placeholderText: config.PasswordFieldPlaceholderText == "Password" ? i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Password") : config.PasswordFieldPlaceholderText
         focus: !showUsernamePrompt || lastUserName
@@ -77,14 +79,14 @@ SessionManagementScreen {
         onAccepted: startLogin()
 
         style: TextFieldStyle {
-            textColor: passwordFieldOutlined ? "white" : "black"
+            textColor: passwordFieldOutlined ? "white" : "white"
             placeholderTextColor: passwordFieldOutlined ? "white" : "white"
             passwordCharacter: config.PasswordFieldCharacter == "" ? "●" : config.PasswordFieldCharacter
             background: Rectangle {
-                radius: 100
-                border.color: "white"
-                border.width: 1
-                color: "white"
+                radius: 6
+                border.color: "#1A73E8"
+                border.width: 2
+                color: "#262626"
             }
         }
 
