@@ -36,16 +36,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-height="708"
      id="namedview1106"
-     showgrid="true"
+     showgrid="false"
      inkscape:snap-midpoints="true"
      inkscape:snap-smooth-nodes="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="2"
-     inkscape:cx="153.79051"
-     inkscape:cy="872.0597"
+     inkscape:zoom="4.1484375"
+     inkscape:cx="394.3578"
+     inkscape:cy="887.56593"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
@@ -5361,14 +5361,14 @@
      height="10"
      x="323.20285"
      y="109.94323"
-     style="fill:#313338;fill-opacity:1" />
+     style="fill:#353535;fill-opacity:1" />
   <rect
      id="combo-normal"
      width="10"
      height="10"
      x="417.20285"
      y="96.44323"
-     style="fill:#313338;fill-opacity:1" />
+     style="fill:#353535;fill-opacity:1" />
   <g
      id="common-focused-top"
      transform="translate(-318.50643,582.53844)">
@@ -5456,17 +5456,17 @@
      inkscape:connector-curvature="0"
      id="header-normal-bottom"
      d="m 78,116.87957 h -6 v 6 h 6 z"
-     style="fill:#212327;fill-opacity:1" />
+     style="fill:#242424;fill-opacity:1" />
   <path
      inkscape:connector-curvature="0"
      id="header-normal-bottomleft"
      d="m 84,116.87957 h -6 v 6 h 6 z"
-     style="fill:#212327;fill-opacity:1" />
+     style="fill:#242424;fill-opacity:1" />
   <path
      inkscape:connector-curvature="0"
      id="header-normal-bottomright"
      d="m 90,116.87957 h -6 v 6 h 6 z"
-     style="fill:#212327;fill-opacity:1" />
+     style="fill:#242424;fill-opacity:1" />
   <path
      inkscape:connector-curvature="0"
      id="header-normal-left"
@@ -5481,27 +5481,27 @@
      inkscape:connector-curvature="0"
      id="header-normal-top"
      d="m 78,110.87957 h -6 v 6 h 6 z"
-     style="fill:#212327;fill-opacity:1" />
+     style="fill:#242424;fill-opacity:1" />
   <path
      inkscape:connector-curvature="0"
      id="header-normal-topright"
      d="m 84,110.87957 h -6 v 6 h 6 z"
-     style="fill:#212327;fill-opacity:1" />
+     style="fill:#242424;fill-opacity:1" />
   <path
      inkscape:connector-curvature="0"
      id="header-normal-topleft"
      d="m 90,110.87957 h -6 v 6 h 6 z"
-     style="fill:#212327;fill-opacity:1" />
+     style="fill:#242424;fill-opacity:1" />
   <path
      inkscape:connector-curvature="0"
      id="header-normal"
      d="m 78,110.87957 v -6 h -6 v 6 z"
-     style="fill:#36383e;fill-opacity:1" />
+     style="fill:#3a3a3a;fill-opacity:1" />
   <path
      inkscape:connector-curvature="0"
      id="header-separator"
      d="m 72,104.87957 h -6 v 6 h 6 z"
-     style="fill:#212327;fill-opacity:1" />
+     style="fill:#242424;fill-opacity:1" />
   <g
      transform="translate(36.00006,37.990736)"
      id="tbutton-pressed-topleft">

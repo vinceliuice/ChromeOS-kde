@@ -27,6 +27,7 @@ install() {
   cp -r ${SRC_DIR}/plasma/desktoptheme/*                                             ${PLASMA_DIR}
   cp -r ${SRC_DIR}/plasma/layout-templates/*                                         ${LAYOUT_DIR}
   cp -r ${SRC_DIR}/color-schemes/${name}Dark.colors                                  ${PLASMA_DIR}/${name}/colors
+  cp -r ${SRC_DIR}/color-schemes/${name}Light.colors                                 ${PLASMA_DIR}/${name}-light/colors
   cp -r ${SRC_DIR}/plasma/look-and-feel/*                                            ${LOOKFEEL_DIR}
 }
 

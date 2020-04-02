@@ -1,5 +1,5 @@
-[kdeglobals][KDE]
-widgetStyle=kvantum
+[kcminputrc][Mouse]
+cursorTheme=Vimix-cursors
 
 [kdeglobals][General]
 ColorScheme=ChromeOS
@@ -7,8 +7,14 @@ ColorScheme=ChromeOS
 [kdeglobals][Icons]
 Theme=Tela
 
-[plasmarc][Theme]
-name=ChromeOS
+[kdeglobals][KDE]
+widgetStyle=kvantum
+
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][WindowSwitcher]
+LayoutName=org.kde.breeze.desktop
 
 [kwinrc][org.kde.kdecoration2]
 ButtonsOnLeft=
@@ -16,5 +22,5 @@ ButtonsOnRight=IAX
 library=org.kde.kwin.aurorae
 theme=__aurorae__svg__ChromeOS
 
-[kcminputrc][Mouse]
-cursorTheme=Vimix-cursors
+[plasmarc][Theme]
+name=ChromeOS

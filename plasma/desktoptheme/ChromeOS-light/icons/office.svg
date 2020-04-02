@@ -1,0 +1,9 @@
+<svg width="32" height="32" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#333333; }</style>
+ </defs>
+ <g id="office-chart-pie">
+  <rect x="-3.3789e-5" y="-3.8672e-6" width="32" height="32" color="#bebebe" enable-background="accumulate" fill="none" opacity=".51464"/>
+  <path d="m16 1a15 15 0 0 0-15 15 15 15 0 0 0 15 15 15 15 0 0 0 15-15 15 15 0 0 0-15-15zm-6 6h3c1.0907 0 2 0.9093 2 2v3c0 1.0907-0.9093 2-2 2h-3c-1.0907 0-2-0.9093-2-2v-3c0-1.0907 0.9093-2 2-2zm9 0h3c1.0907 0 2 0.9093 2 2v5c0 1.0907-0.9093 2-2 2h-3c-1.0907 0-2-0.9093-2-2v-5c0-1.0907 0.9093-2 2-2zm-9 1c-0.554 0-1 0.446-1 1v3c0 0.554 0.446 1 1 1h3c0.554 0 1-0.446 1-1v-3c0-0.554-0.446-1-1-1h-3zm9 0c-0.554 0-1 0.446-1 1v5c0 0.554 0.446 1 1 1h3c0.554 0 1-0.446 1-1v-5c0-0.554-0.446-1-1-1h-3zm-9 8h3c1.0907 0 2 0.9093 2 2v5c0 1.0907-0.9093 2-2 2h-3c-1.0907 0-2-0.9093-2-2v-5c0-1.0907 0.9093-2 2-2zm0 1c-0.554 0-1 0.446-1 1v5c0 0.554 0.446 1 1 1h3c0.554 0 1-0.446 1-1v-5c0-0.554-0.446-1-1-1h-3zm9 1h3c1.0907 0 2 0.9093 2 2v3c0 1.0907-0.9093 2-2 2h-3c-1.0907 0-2-0.9093-2-2v-3c0-1.0907 0.9093-2 2-2zm0 1c-0.554 0-1 0.446-1 1v3c0 0.554 0.446 1 1 1h3c0.554 0 1-0.446 1-1v-3c0-0.554-0.446-1-1-1h-3z" opacity=".5" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>
