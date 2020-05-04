@@ -41,7 +41,7 @@ SessionManagementScreen {
     PlasmaComponents.TextField {
         id: userNameInput
         Layout.fillWidth: true
-        Layout.minimumHeight: 32
+        Layout.minimumHeight: 28
         implicitHeight: root.height / 28
         font.family: config.Font || "Noto Sans"
         font.pointSize: usernameFontSize
@@ -65,7 +65,6 @@ SessionManagementScreen {
 
     PlasmaComponents.TextField {
         id: passwordBox
-        
         Layout.fillWidth: true
         Layout.minimumHeight: 32
         implicitHeight: usernameFontSize * 2.85
