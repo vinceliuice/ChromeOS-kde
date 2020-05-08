@@ -245,19 +245,18 @@ frame.right=1
 inherits=PanelButtonCommand
 frame.element=lineedit
 interior.element=lineedit
-interior=false
-frame.top=2
-frame.bottom=2
-frame.left=2
-frame.right=2
+frame.top=6
+frame.bottom=6
+frame.left=6
+frame.right=6
 text.margin.top=2
 text.margin.bottom=2
 text.margin.left=2
 text.margin.right=2
-frame.expansion=0
 
 [ToolbarLineEdit]
 frame.element=lineedit
+interior.element=lineedit
 
 [DropDownButton]
 inherits=PanelButtonCommand
@@ -282,7 +281,7 @@ text.margin.top=2
 text.margin.bottom=2
 frame.element=tab
 indicator.element=tab
-indicator.size=22
+indicator.size=16
 frame.top=2
 frame.bottom=2
 frame.left=2
@@ -506,11 +505,10 @@ frame.expansion=0
 inherits=PanelButtonCommand
 frame.element=combo
 interior.element=combo
-interior=false
-frame.top=2
-frame.bottom=2
-frame.left=2
-frame.right=2
+frame.top=6
+frame.bottom=6
+frame.left=6
+frame.right=6
 text.margin.top=2
 text.margin.bottom=2
 text.margin.left=2
@@ -518,7 +516,6 @@ text.margin.right=2
 text.focus.color=white
 text.press.color=#dfdfdf
 text.toggle.color=white
-frame.expansion=0
 
 [GroupBox]
 inherits=GenericFrame

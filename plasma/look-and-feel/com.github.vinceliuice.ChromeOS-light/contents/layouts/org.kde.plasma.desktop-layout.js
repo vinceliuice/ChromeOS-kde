@@ -21,8 +21,7 @@ var layout = {
                 },
                 "/General": {
                     "ToolBoxButtonState": "topcenter",
-                    "ToolBoxButtonX": "462",
-                    "ToolBoxButtonY": "32"
+                    "ToolBoxButtonX": "798"
                 },
                 "/Wallpaper/org.kde.image/General": {
                     "Image": "file:///usr/share/wallpapers/PastelHills/contents/images/1920x1080.jpg"
@@ -40,12 +39,8 @@ var layout = {
                         "/": {
                             "immutability": "1"
                         },
-                        "/Configuration": {
-                            "PreloadWeight": "100"
-                        },
                         "/Configuration/General": {
-                            "favoritesPortedToKAstats": "true",
-                            "systemApplications": "systemsettings.desktop,org.kde.kinfocenter.desktop"
+                            "favoritesPortedToKAstats": "true"
                         },
                         "/Configuration/Shortcuts": {
                             "global": "Alt+F1"
@@ -60,20 +55,6 @@ var layout = {
                     "config": {
                         "/": {
                             "immutability": "1"
-                        },
-                        "/Configuration": {
-                            "PreloadWeight": "0"
-                        }
-                    },
-                    "plugin": "org.kde.plasma.appmenu"
-                },
-                {
-                    "config": {
-                        "/": {
-                            "immutability": "1"
-                        },
-                        "/Configuration": {
-                            "PreloadWeight": "0"
                         }
                     },
                     "plugin": "org.kde.plasma.panelspacer"
@@ -82,9 +63,41 @@ var layout = {
                     "config": {
                         "/": {
                             "immutability": "1"
+                        }
+                    },
+                    "plugin": "org.kde.plasma.panelspacer"
+                },
+                {
+                    "config": {
+                        "/": {
+                            "immutability": "1"
+                        }
+                    },
+                    "plugin": "org.kde.plasma.panelspacer"
+                },
+                {
+                    "config": {
+                        "/": {
+                            "immutability": "1"
+                        }
+                    },
+                    "plugin": "org.kde.plasma.panelspacer"
+                },
+                {
+                    "config": {
+                        "/": {
+                            "immutability": "1"
+                        }
+                    },
+                    "plugin": "org.kde.plasma.icontasks"
+                },
+                {
+                    "config": {
+                        "/": {
+                            "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "100"
+                            "PreloadWeight": "55"
                         }
                     },
                     "plugin": "org.kde.plasma.systemtray"
@@ -95,32 +108,10 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "81"
-                        },
-                        "/Configuration/Appearance": {
-                            "displayTimezoneAsCode": "false",
-                            "enabledCalendarPlugins": "/usr/lib/qt/plugins/plasmacalendarplugins/astronomicalevents.so,/usr/lib/qt/plugins/plasmacalendarplugins/holidaysevents.so",
-                            "showWeekNumbers": "true",
-                            "spinboxHorizontalPercentage": "60",
-                            "use24hFormat": "2"
-                        },
-                        "/Configuration/ConfigDialog": {
-                            "DialogHeight": "540",
-                            "DialogWidth": "720"
+                            "PreloadWeight": "60"
                         }
                     },
-                    "plugin": "org.kde.plasma.splitdigitalclock"
-                },
-                {
-                    "config": {
-                        "/": {
-                            "immutability": "1"
-                        },
-                        "/Configuration": {
-                            "PreloadWeight": "41"
-                        }
-                    },
-                    "plugin": "org.kde.milou"
+                    "plugin": "org.kde.plasma.digitalclock"
                 }
             ],
             "config": {
@@ -129,20 +120,13 @@ var layout = {
                     "immutability": "1",
                     "lastScreen": "0",
                     "wallpaperplugin": "org.kde.image"
-                },
-                "/ConfigDialog": {
-                    "DialogHeight": "74",
-                    "DialogWidth": "1366"
-                },
-                "/Configuration": {
-                    "PreloadWeight": "0"
                 }
             },
-            "height": 1.7777777777777777,
+            "height": 2.5,
             "hiding": "normal",
-            "location": "top",
-            "maximumLength": 75.88888888888889,
-            "minimumLength": 75.88888888888889,
+            "location": "bottom",
+            "maximumLength": 120,
+            "minimumLength": 120,
             "offset": 0
         }
     ],
