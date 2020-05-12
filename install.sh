@@ -40,7 +40,7 @@ install() {
   cp -r ${SRC_DIR}/color-schemes/${name}Dark.colors                                  ${PLASMA_DIR}/${name}/colors
   cp -r ${SRC_DIR}/color-schemes/${name}Light.colors                                 ${PLASMA_DIR}/${name}-light/colors
   cp -r ${SRC_DIR}/plasma/look-and-feel/*                                            ${LOOKFEEL_DIR}
-  cp -r ${SRC_DIR}/wallpaper                                                         ${WALLPAPER_DIR}/${name}
+  cp -r ${SRC_DIR}/wallpaper/*                                                       ${WALLPAPER_DIR}/
 }
 
 echo "Installing '${THEME_NAME} kde themes'..."

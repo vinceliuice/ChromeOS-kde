@@ -17,7 +17,7 @@ intensity=0.4
 saturation=1.7
 
 [Wallpaper]
-defaultWallpaperTheme=ChromeOS
+defaultWallpaperTheme=ChromeOS-light
 defaultFileSuffix=.jpg
 defaultWidth=1920
 defaultHeight=1080
