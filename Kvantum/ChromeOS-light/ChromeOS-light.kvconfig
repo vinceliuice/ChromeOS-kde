@@ -7,7 +7,7 @@ left_tabs=true
 attach_active_tab=false
 mirror_doc_tabs=true
 group_toolbar_buttons=false
-toolbar_item_spacing=0
+toolbar_item_spacing=2
 toolbar_interior_spacing=2
 spread_progressbar=true
 composite=true
@@ -40,7 +40,7 @@ merge_menubar_with_toolbar=true
 small_icon_size=16
 large_icon_size=32
 button_icon_size=16
-toolbar_icon_size=16
+toolbar_icon_size=22
 combo_as_lineedit=true
 animate_states=true
 button_contents_shift=true
@@ -118,6 +118,23 @@ opaque_colors=false
 kinetic_scrolling=false
 scroll_jump_workaround=false
 
+[BaseWidget]
+interior=true
+indicator.size=12
+frame=true
+frame.top=0
+frame.bottom=0
+frame.left=0
+frame.right=0
+frame.expansion=0
+text.margin=true
+text.margin.top=0
+text.margin.bottom=0
+text.margin.left=0
+text.margin.right=0
+text.bold=false
+text.shadow=0
+
 [PanelButtonCommand]
 frame=true
 frame.element=button
@@ -163,7 +180,7 @@ text.press.color=#444444
 text.toggle.color=#444444
 text.disabled.color=#44444474
 text.bold=false
-frame.expansion=34
+frame.expansion=100
 
 [Dock]
 inherits=PanelButtonCommand
@@ -228,15 +245,8 @@ frame.right=2
 frame.patternsize=14
 
 [GenericFrame]
-inherits=PanelButtonCommand
-frame=true
-interior=false
-frame.element=common
-interior.element=common
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+interior=common
+inherits=BaseWidget
 
 [LineEdit]
 inherits=PanelButtonCommand
@@ -372,28 +382,26 @@ frame.element=progress-pattern
 interior.element=progress-pattern
 
 [ItemView]
-inherits=PanelButtonCommand
-text.margin=0
+inherits=BaseWidget
 frame.element=itemview
 interior.element=itemview
-frame.top=4
-frame.bottom=4
-frame.left=4
-frame.right=4
-text.margin.top=4
-text.margin.bottom=4
-text.margin.left=6
-text.margin.right=6
+frame.top=2
+frame.bottom=2
+frame.left=2
+frame.right=2
+text.margin.top=2
+text.margin.bottom=2
+text.margin.left=4
+text.margin.right=4
 text.normal.color=#444444
 text.focus.color=#444444
 text.press.color=#ffffff
 text.toggle.color=#ffffff
-min_width=+0.3font
-min_height=+0.3font
-frame.expansion=0
 
 [Splitter]
-indicator.size=48
+interior.element=splitter
+frame=false
+indicator.size=0
 
 [Scrollbar]
 inherits=PanelButtonCommand
@@ -475,8 +483,8 @@ text.margin.top=0
 text.margin.bottom=0
 text.normal.color=#444444
 text.focus.color=#444444
-text.press.color=#ffffff
-text.toggle.color=#ffffff
+text.press.color=#363636
+text.toggle.color=#363636
 text.bold=false
 min_width=+0.3font
 min_height=+0.3font
@@ -514,8 +522,19 @@ text.focus.color=#424242
 text.press.color=#424242
 text.toggle.color=#424242
 
+[CommonFrame]
+inherits=PanelButtonCommand
+frame=true
+interior=false
+frame.element=commonframe
+interior.element=commonframe
+frame.top=3
+frame.bottom=3
+frame.left=3
+frame.right=3
+
 [GroupBox]
-inherits=GenericFrame
+inherits=CommonFrame
 frame=false
 text.shadow=0
 text.margin=0
@@ -525,7 +544,7 @@ text.bold=false
 frame.expansion=0
 
 [TabBarFrame]
-inherits=GenericFrame
+inherits=CommonFrame
 frame=true
 frame.element=tabBarFrame
 interior=false
@@ -535,7 +554,7 @@ frame.left=2
 frame.right=2
 
 [ToolTip]
-inherits=GenericFrame
+inherits=CommonFrame
 frame.top=3
 frame.bottom=3
 frame.left=3
@@ -548,7 +567,7 @@ frame.element=tooltip
 frame.expansion=0
 
 [StatusBar]
-inherits=GenericFrame
+inherits=CommonFrame
 frame=false
 interior=false
 

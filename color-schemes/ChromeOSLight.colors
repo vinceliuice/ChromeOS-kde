@@ -33,14 +33,15 @@ ForegroundPositive=0,110,40
 ForegroundVisited=224,64,251
 
 [Colors:Complementary]
-BackgroundAlternate=54,57,62
-BackgroundNormal=33,35,41
+BackgroundAlternate=238,238,238
+BackgroundNormal=255,255,255
 DecorationFocus=66,133,244
-DecorationHover=79,83,91
+DecorationHover=66,133,244
+ForegroundNormal=68,68,68
 
 [Colors:Header]
-BackgroundAlternate=245,245,245
-BackgroundNormal=255,255,255
+BackgroundAlternate=206,206,206
+BackgroundNormal=224,224,224
 DecorationFocus=66,133,244
 DecorationHover=120,167,244
 ForegroundActive=255,128,224
