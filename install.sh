@@ -34,6 +34,13 @@ THEME_NAME=ChromeOS
 install() {
   local name=${1}
 
+  [[ -d ${AURORAE_DIR}/${name} ]] && rm -rf ${AURORAE_DIR}/${name}*
+  [[ -d ${PLASMA_DIR}/${name} ]] && rm -rf ${PLASMA_DIR}/${name}*
+  [[ -f ${SCHEMES_DIR}/${name}.colors ]] && rm -rf ${SCHEMES_DIR}/${name}*.colors
+  [[ -d ${LOOKFEEL_DIR}/com.github.vinceliuice.${name} ]] && rm -rf ${LOOKFEEL_DIR}/com.github.vinceliuice.${name}*
+  [[ -d ${KVANTUM_DIR}/${name} ]] && rm -rf ${KVANTUM_DIR}/${name}*
+  [[ -d ${WALLPAPER_DIR}/${name} ]] && rm -rf ${WALLPAPER_DIR}/${name}
+
   cp -r ${SRC_DIR}/aurorae/*                                                         ${AURORAE_DIR}
   cp -r ${SRC_DIR}/color-schemes/*.colors                                            ${SCHEMES_DIR}
   cp -r ${SRC_DIR}/Kvantum/*                                                         ${KVANTUM_DIR}
