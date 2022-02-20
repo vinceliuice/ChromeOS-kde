@@ -6,7 +6,7 @@
    viewBox="0 0 22 22"
    id="svg20"
    sodipodi:docname="compass.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,7 +22,7 @@
      showgrid="false"
      inkscape:zoom="4.6685118"
      inkscape:cx="-1.9278092"
-     inkscape:cy="-33.736661"
+     inkscape:cy="-33.62956"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
@@ -35,41 +35,6 @@
        id="current-color-scheme"
        type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; }</style>
   </defs>
-  <g
-     id="16-16-compass">
-    <rect
-       x="25"
-       width="16"
-       height="16"
-       fill="none"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-miterlimit="2"
-       stroke-width="2.1333"
-       id="rect5" />
-    <path
-       class="ColorScheme-Text"
-       d="m33 1.0273c-3.866 0-7 3.1182-7 7s3.134 7 7 7 7-3.1182 7-7-3.134-7-7-7zm0 1.9727c2.7614 0 5 2.2909 5 5.0273s-2.2386 5.0273-5 5.0273-5-2.2909-5-5.0273 2.2386-5.0273 5-5.0273zm3.5 1.5273-3.5 1.1455c-1.2217 0-2.334 1.1455-2.334 2.3545l-1.166 3.5 3.5-1.1455c1.2217 0 2.334-1.1455 2.334-2.3545zm-3.5 2.3545c0.61088 0 1.166 0.50909 1.166 1.1455-1.9e-5 0.63636-0.55518 1.1455-1.166 1.1455-0.61085 0-1.166-0.50909-1.166-1.1455-3e-5 -0.63636 0.55514-1.1455 1.166-1.1455z"
-       fill="#333333"
-       id="path7" />
-  </g>
-  <g
-     id="22-22-compass"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-miterlimit="2"
-     stroke-width="2">
-    <circle
-       cx="11"
-       cy="11"
-       r="11"
-       opacity="0"
-       id="circle10" />
-    <path
-       d="m16.657 5.3431a8 8 0 0 0-11.314 0 8 8 0 0 0 0 11.314 8 8 0 0 0 11.314 0 8 8 0 0 0 0-11.314zm-1.4142 1.4142a6 6 0 0 1 0 8.4853 6 6 0 0 1-8.4853 0 6 6 0 0 1 0-8.4853 6 6 0 0 1 8.4853 0zm0 0-3.2731 1.4032a3 3 0 0 0-3.0908 0.71816 3 3 0 0 0-0.71816 3.0881l-1.4032 3.2759 3.2731-1.4032a3 3 0 0 0 3.0908-0.71816 3 3 0 0 0 0.71816-3.0881zm-3.5355 3.5355a1 1 0 0 1 0 1.4142 1 1 0 0 1-1.4142 0 1 1 0 0 1 0-1.4142 1 1 0 0 1 1.4142 0z"
-       fill="#333333"
-       id="path12" />
-  </g>
   <g
      id="compass">
     <path
@@ -87,5 +52,45 @@
        stroke-miterlimit="2"
        stroke-width="4.2666"
        id="rect17" />
+  </g>
+  <g
+     id="16-16-compass"
+     transform="translate(0.126953,2.873047)">
+    <rect
+       x="24.873047"
+       width="16"
+       height="16"
+       fill="none"
+       id="rect5"
+       y="0.12695301" />
+    <path
+       id="circle4"
+       d="m 32.873047,0.126953 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 0,2 a 5.9999809,5.9999809 0 0 1 6,6 5.9999809,5.9999809 0 0 1 -6,6 5.9999809,5.9999809 0 0 1 -6,-6 5.9999809,5.9999809 0 0 1 6,-6 z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <path
+       d="m 35.355469,4.392578 -4.236328,1.324219 a 1.0001,1.0001 0 0 0 -0.65625,0.65625 l -1.324219,4.236328 a 1.0001,1.0001 0 0 0 1.251953,1.251953 l 4.236328,-1.324219 a 1.0001,1.0001 0 0 0 0.65625,-0.65625 L 36.607422,5.644531 A 1.0001,1.0001 0 0 0 35.355469,4.392578 Z m -1.228516,2.480469 -0.597656,1.910156 -1.910156,0.597656 0.597656,-1.910156 z"
+       id="path2"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+  </g>
+  <g
+     id="22-22-compass">
+    <circle
+       cx="11"
+       cy="11"
+       r="11"
+       fill="none"
+       id="circle10" />
+    <path
+       id="path1252"
+       d="m 11,3 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 0,2 a 5.9999809,5.9999809 0 0 1 6,6 5.9999809,5.9999809 0 0 1 -6,6 5.9999809,5.9999809 0 0 1 -6,-6 5.9999809,5.9999809 0 0 1 6,-6 z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <path
+       d="M 13.482422,7.265625 9.246094,8.589844 a 1.0001,1.0001 0 0 0 -0.65625,0.65625 l -1.324219,4.236328 a 1.0001,1.0001 0 0 0 1.251953,1.251953 l 4.236328,-1.324219 a 1.0001,1.0001 0 0 0 0.65625,-0.65625 L 14.734375,8.517578 A 1.0001,1.0001 0 0 0 13.482422,7.265625 Z M 12.253906,9.746094 11.65625,11.65625 9.746094,12.253906 10.34375,10.34375 Z"
+       id="path1254"
+       class="ColorScheme-Text"
+       fill="currentColor" />
   </g>
 </svg>
