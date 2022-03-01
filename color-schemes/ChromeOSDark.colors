@@ -131,8 +131,8 @@ ForegroundPositive=1,162,153
 ForegroundVisited=0,188,212
 
 [General]
-ColorScheme=OrchisDark
-Name=OrchisDark
+ColorScheme=ChromeOSDark
+Name=ChromeOSDark
 shadeSortColumn=true
 
 [KDE]
