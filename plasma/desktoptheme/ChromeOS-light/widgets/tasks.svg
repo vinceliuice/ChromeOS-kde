@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="144"
    height="126"
    version="1.0"
    viewBox="0 0 144 126"
    id="svg1172"
    sodipodi:docname="tasks.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata709">
     <rdf:RDF>
@@ -34,18 +34,21 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1368"
-     inkscape:window-height="700"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
      id="namedview709"
      showgrid="false"
-     inkscape:zoom="3.6365492"
-     inkscape:cx="17.644278"
-     inkscape:cy="41.820921"
+     inkscape:zoom="10.285714"
+     inkscape:cx="147.53472"
+     inkscape:cy="106.11805"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1172"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs5">
     <style
@@ -3668,7 +3671,7 @@
      transform="matrix(1.2222 0 0 1.2222 -97 -16.778)">
     <path
        d="m211.5 89a4.5 4.5 0 0 0-4.5 4.5 4.5 4.5 0 0 0 4.5 4.5 4.5 4.5 0 0 0 4.5-4.5 4.5 4.5 0 0 0-4.5-4.5z"
-       class="ColorScheme-Text"
+       class="ColorScheme-Highlight"
        fill="currentColor"
        id="path848" />
     <path
@@ -3681,7 +3684,7 @@
      transform="matrix(1.2222 0 0 1.2222 -75 -16.778)">
     <path
        d="m211.5 89a4.5 4.5 0 0 0-4.5 4.5 4.5 4.5 0 0 0 4.5 4.5 4.5 4.5 0 0 0 4.5-4.5 4.5 4.5 0 0 0-4.5-4.5z"
-       class="ColorScheme-Text"
+       class="ColorScheme-Highlight"
        fill="currentColor"
        id="path853" />
     <path
@@ -3694,7 +3697,7 @@
      transform="matrix(1.2222 0 0 1.2222 -97 1.2222)">
     <path
        d="m211.5 89a4.5 4.5 0 0 0-4.5 4.5 4.5 4.5 0 0 0 4.5 4.5 4.5 4.5 0 0 0 4.5-4.5 4.5 4.5 0 0 0-4.5-4.5z"
-       class="ColorScheme-Text"
+       class="ColorScheme-Highlight"
        fill="currentColor"
        id="path858" />
     <path
@@ -3707,7 +3710,7 @@
      transform="matrix(1.2222 0 0 1.2222 -75 1.2222)">
     <path
        d="m211.5 89a4.5 4.5 0 0 0-4.5 4.5 4.5 4.5 0 0 0 4.5 4.5 4.5 4.5 0 0 0 4.5-4.5 4.5 4.5 0 0 0-4.5-4.5z"
-       class="ColorScheme-Text"
+       class="ColorScheme-Highlight"
        fill="currentColor"
        id="path863" />
     <path
@@ -3835,7 +3838,7 @@
   <g
      id="normal-bottom"
      transform="matrix(-1,0,0,0.99999968,36,33.000009)"
-     style="opacity:0.75">
+     style="opacity:1">
     <rect
        class="ColorScheme-Text"
        transform="scale(1,-1)"
@@ -4009,7 +4012,7 @@
   <g
      id="north-normal-top"
      transform="rotate(180,36,36.000001)"
-     style="opacity:0.75">
+     style="opacity:1">
     <rect
        class="ColorScheme-Text"
        transform="scale(1,-1)"
@@ -4065,7 +4068,7 @@
   <g
      id="west-normal-left"
      transform="matrix(-0.99999986,0,0,0.84615,107,36.846)"
-     style="opacity:0.75">
+     style="opacity:1">
     <rect
        class="ColorScheme-Text"
        x="31"
@@ -4240,7 +4243,7 @@
   <g
      id="east-normal-right"
      transform="matrix(0.99999836,0,0,0.84615,109.00005,36.846)"
-     style="opacity:0.75">
+     style="opacity:1">
     <rect
        class="ColorScheme-Text"
        x="31"
