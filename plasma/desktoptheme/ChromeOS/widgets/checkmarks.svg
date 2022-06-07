@@ -94,8 +94,8 @@
         stop-color:#93cee9;
       }
       .ColorScheme-ButtonFocus{
-        color:#3daee9;
-        stop-color:#3daee9;
+        color:#4285f4;
+        stop-color:#4285f4;
       }</style>
   </defs>
   <g
@@ -112,9 +112,10 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssssssss" />
     <path
-       style="fill:#4285f4;stroke-width:0.8888889"
+       style="fill:currentColor;stroke-width:0.8888889"
        d="M 29 2 C 27.338 2 26 3.338 26 5 L 26 15 C 26 16.662 27.338 18 29 18 L 39 18 C 40.662 18 42 16.662 42 15 L 42 5 C 42 3.338 40.662 2 39 2 L 29 2 z M 38.96875 5.1816406 L 40.222656 6.4453125 L 32.222656 14.445312 L 27.777344 10 L 29.03125 8.7460938 L 32.222656 11.929688 L 38.96875 5.1816406 z "
-       id="path824" />
+       id="path824"
+       class="ColorScheme-ButtonFocus" />
   </g>
   <g
      id="radiobutton">
@@ -130,14 +131,16 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssss" />
     <path
-       style="fill:#4285f4;stroke-width:0.89999998"
+       style="fill:currentColor;stroke-width:0.89999998"
        d="M 10 1 C 5.032 1 1 5.032 1 10 C 1 14.968 5.032 19 10 19 C 14.968 19 19 14.968 19 10 C 19 5.032 14.968 1 10 1 z M 10 3 C 13.864 3 17 6.136 17 10 C 17 13.864 13.864 17 10 17 C 6.136 17 3 13.864 3 10 C 3 6.136 6.136 3 10 3 z "
-       id="path833" />
+       id="path833"
+       class="ColorScheme-ButtonFocus" />
     <path
        sodipodi:nodetypes="sssss"
        id="path843"
        d="m 10,6 c -2.208,0 -4,1.792 -4,4 0,2.208 1.792,4 4,4 2.208,0 4,-1.792 4,-4 0,-2.208 -1.792,-4 -4,-4 z"
        inkscape:connector-curvature="0"
-       style="fill:#4285f4;stroke-width:0.40000001;fill-opacity:1" />
+       style="fill:currentColor;stroke-width:0.40000001;fill-opacity:1"
+       class="ColorScheme-ButtonFocus" />
   </g>
 </svg>
