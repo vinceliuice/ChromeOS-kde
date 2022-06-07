@@ -50,12 +50,59 @@
        type="xygrid"
        id="grid885" />
   </sodipodi:namedview>
+  <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#4285f4;
+        stop-color:#4285f4;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+        stop-color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#4285f4;
+        stop-color:#4285f4;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#4285f4;
+        stop-color:#4285f4;
+      }</style>
+ </defs>
   <g
      stroke-width=".91667"
      id="g40">
     <g
        id="horizontal-slider-handle"
-       transform="matrix(.75 0 0 .75 -18.75 28)">
+       transform="matrix(.75 0 0 .75 -18.75 28)"
+       class="ColorScheme-ButtonFocus">
       <rect
          x="25"
          y="4"
@@ -67,12 +114,13 @@
          cx="41"
          cy="20"
          r="8"
-         fill="#4285f4"
+         fill="currentColor"
          id="circle4" />
     </g>
     <g
        id="horizontal-slider-hover"
-       transform="matrix(.75 0 0 .75 6.25 27)">
+       transform="matrix(.75 0 0 .75 6.25 27)"
+       class="ColorScheme-ButtonFocus">
       <rect
          x="25"
          y="4"
@@ -84,19 +132,20 @@
          cx="41"
          cy="20"
          r="16"
-         fill="#4285f4"
+         fill="currentColor"
          opacity=".2"
          id="circle9" />
       <circle
          cx="41"
          cy="20"
          r="8"
-         fill="#4285f4"
+         fill="currentColor"
          id="circle11" />
     </g>
     <g
        id="horizontal-slider-focus"
-       transform="matrix(.75 0 0 .75 31.25 28)">
+       transform="matrix(.75 0 0 .75 31.25 28)"
+       class="ColorScheme-ButtonFocus">
       <rect
          x="25"
          y="4"
@@ -108,19 +157,20 @@
          cx="41"
          cy="20"
          r="16"
-         fill="#4285f4"
+         fill="currentColor"
          opacity=".3"
          id="circle16" />
       <circle
          cx="41"
          cy="20"
          r="8"
-         fill="#4285f4"
+         fill="currentColor"
          id="circle18" />
     </g>
     <g
        id="vertical-slider-handle"
-       transform="matrix(.75 0 0 .75 -18.75 -3)">
+       transform="matrix(.75 0 0 .75 -18.75 -3)"
+       class="ColorScheme-ButtonFocus">
       <rect
          x="25"
          y="4"
@@ -132,12 +182,13 @@
          cx="41"
          cy="20"
          r="8"
-         fill="#4285f4"
+         fill="currentColor"
          id="circle23" />
     </g>
     <g
        id="vertical-slider-hover"
-       transform="matrix(.75 0 0 .75 6.25 -3)">
+       transform="matrix(.75 0 0 .75 6.25 -3)"
+       class="ColorScheme-ButtonFocus">
       <rect
          x="25"
          y="4"
@@ -149,19 +200,20 @@
          cx="41"
          cy="20"
          r="16"
-         fill="#4285f4"
+         fill="currentColor"
          opacity=".2"
          id="circle28" />
       <circle
          cx="41"
          cy="20"
          r="8"
-         fill="#4285f4"
+         fill="currentColor"
          id="circle30" />
     </g>
     <g
        id="vertical-slider-focus"
-       transform="matrix(.75 0 0 .75 31.25 -3)">
+       transform="matrix(.75 0 0 .75 31.25 -3)"
+       class="ColorScheme-ButtonFocus">
       <rect
          x="25"
          y="4"
@@ -173,14 +225,14 @@
          cx="41"
          cy="20"
          r="16"
-         fill="#4285f4"
+         fill="currentColor"
          opacity=".3"
          id="circle35" />
       <circle
          cx="41"
          cy="20"
          r="8"
-         fill="#4285f4"
+         fill="currentColor"
          id="circle37" />
     </g>
   </g>
@@ -248,55 +300,55 @@
      inkscape:connector-curvature="0"
      style="opacity:0.3;stroke-width:1" />
   <path
-     style="fill:#4285f4;stroke-width:1"
+     style="fill:currentColor;stroke-width:1"
      inkscape:connector-curvature="0"
      d="m 25,-20 v 1 h 1 v -1 z"
      class="ColorScheme-ButtonHover"
      id="groove-highlight-top" />
   <path
-     style="fill:#4285f4;stroke-width:1"
+     style="fill:currentColor;stroke-width:1"
      inkscape:connector-curvature="0"
      d="m 24,-20 c -0.560733,0 -1,0.439266 -1,1 h 1 z"
      class="ColorScheme-ButtonHover"
      id="groove-highlight-topleft" />
   <path
-     style="fill:#4285f4;stroke-width:1"
+     style="fill:currentColor;stroke-width:1"
      inkscape:connector-curvature="0"
      d="m 28,-19 c 0,-0.560734 -0.439267,-1 -1,-1 v 1 z"
      class="ColorScheme-ButtonHover"
      id="groove-highlight-topright" />
   <path
-     style="fill:#4285f4;stroke-width:1"
+     style="fill:currentColor;stroke-width:1"
      inkscape:connector-curvature="0"
      d="m 25,-15 v -1 h 1 v 1 z"
      class="ColorScheme-ButtonHover"
      id="groove-highlight-bottom" />
   <path
-     style="fill:#4285f4;stroke-width:1"
+     style="fill:currentColor;stroke-width:1"
      inkscape:connector-curvature="0"
      d="m 24,-15 c -0.569866,0 -1.016288,-0.439267 -1.016288,-1 H 24 Z"
      class="ColorScheme-ButtonHover"
      id="groove-highlight-bottomleft" />
   <path
-     style="fill:#4285f4;stroke-width:1"
+     style="fill:currentColor;stroke-width:1"
      inkscape:connector-curvature="0"
      d="m 28.039625,-16 c 0,0.560733 -0.456673,1 -1.039625,1 v -1 z"
      class="ColorScheme-ButtonHover"
      id="groove-highlight-bottomright" />
   <path
-     style="fill:#4285f4;stroke-width:1"
+     style="fill:currentColor;stroke-width:1"
      id="groove-highlight-center"
      class="ColorScheme-ButtonHover"
      d="m 25,-18 v 1 h 1 v -1 z"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#4285f4;stroke-width:1"
+     style="fill:currentColor;stroke-width:1"
      id="groove-highlight-left"
      class="ColorScheme-ButtonHover"
      d="m 23,-18 v 1 h 1 v -1 z"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#4285f4;stroke-width:1"
+     style="fill:currentColor;stroke-width:1"
      id="groove-highlight-right"
      class="ColorScheme-ButtonHover"
      d="m 27,-18 v 1 h 1 v -1 z"
