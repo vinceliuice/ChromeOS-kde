@@ -136,4 +136,47 @@
   <rect id="decoration-inactive-center_" x="92" y="191" width="100" height="60" fill="#244fae" style="paint-order:stroke fill markers"/>
   <rect x="92" y="191" width="100" height="60" opacity=".1" style="paint-order:stroke fill markers"/>
  </g>
+ <g id="mask-right" transform="matrix(-1 0 0 1 784.24 -50.729)">
+  <rect x="235" y="105" width="20" height="60" opacity="0" stroke-width="2.1909" style="paint-order:stroke fill markers"/>
+  <rect x="229" y="105" width="12" height="60" fill="none"/>
+  <rect x="241" y="105" width="14" height="60"/>
+ </g>
+ <g id="mask-topleft" transform="translate(174.24 -61.729)">
+  <rect x="235" y="80" width="20" height="20" opacity="0" stroke-width="1.4606" style="paint-order:stroke fill markers"/>
+  <path transform="translate(163,59)" d="m66 21v18h26v-18z" fill="none"/>
+  <path d="m245 86c-2.216 0-4 1.784-4 4v26h14v-30z"/>
+  <rect x="229" y="98" width="12" height="18" fill="none"/>
+ </g>
+ <g id="mask-left" transform="translate(174.24 -50.729)">
+  <rect x="235" y="105" width="20" height="60" opacity="0" stroke-width="2.1909" style="paint-order:stroke fill markers"/>
+  <rect x="229" y="105" width="12" height="60" fill="none"/>
+  <rect x="241" y="105" width="14" height="60"/>
+ </g>
+ <g id="mask-top" transform="matrix(0 1 -1.6667 0 704.24 -216.73)">
+  <rect x="235" y="105" width="20" height="60" opacity="0" stroke-width="2.1909" style="paint-order:stroke fill markers"/>
+  <rect x="235" y="105" width="6" height="60" fill="none"/>
+  <rect x="241" y="105" width="30" height="60"/>
+ </g>
+ <rect id="mask-center" x="429.24" y="54.271" width="100" height="60" stroke-width="3.7795"/>
+ <g id="mask-bottomleft" transform="matrix(1 0 0 -1 174.24 214.27)">
+  <rect x="235" y="80" width="20" height="20" opacity="0" stroke-width="1.4606" style="paint-order:stroke fill markers"/>
+  <path d="m229 100v-20h26v20z" fill="none"/>
+  <path transform="matrix(1,0,0,-1,163,227)" d="m78 127c0 2.216 1.784 4 4 4h10v-4z"/>
+ </g>
+ <g id="mask-bottom" transform="matrix(0 -1 -1.6667 0 704.24 369.27)">
+  <rect x="235" y="105" width="20" height="60" opacity="0" stroke-width="2.1909" style="paint-order:stroke fill markers"/>
+  <rect x="235" y="105" width="16" height="60" fill="none"/>
+  <rect x="251" y="105" width="4" height="60"/>
+ </g>
+ <g id="mask-topright" transform="matrix(-1 0 0 1 784.24 -61.729)">
+  <rect x="235" y="80" width="20" height="20" opacity="0" stroke-width="1.4606" style="paint-order:stroke fill markers"/>
+  <path transform="translate(163,59)" d="m66 21v18h26v-18z" fill="none"/>
+  <path d="m245 86c-2.216 0-4 1.784-4 4v26h14v-30z"/>
+  <rect x="229" y="98" width="12" height="18" fill="none"/>
+ </g>
+ <g id="mask-bottomright" transform="rotate(180 392.12 107.14)">
+  <rect x="235" y="80" width="20" height="20" opacity="0" stroke-width="1.4606" style="paint-order:stroke fill markers"/>
+  <path d="m229 100v-20h26v20z" fill="none"/>
+  <path transform="matrix(1,0,0,-1,163,227)" d="m78 127c0 2.216 1.784 4 4 4h10v-4z"/>
+ </g>
 </svg>
