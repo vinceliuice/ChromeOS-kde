@@ -34,15 +34,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="3840"
-     inkscape:window-height="2042"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
      id="namedview57"
      showgrid="true"
-     inkscape:zoom="8"
-     inkscape:cx="200.125"
-     inkscape:cy="39.5"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="173.59471"
+     inkscape:cy="57.275649"
      inkscape:window-x="0"
-     inkscape:window-y="58"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:snap-bbox="true"
@@ -386,5 +386,50 @@
        d="m 34.894,5.0216 a 8.5,8.5 0 0 0 -5.4043,2.4688 8.5,8.5 0 0 0 0,12.021 8.5,8.5 0 0 0 11.266,0.6543 c 0.0155,0.01783 0.03185,0.03576 0.04883,0.05273 l 6.3633,6.3633 c 0.39174,0.39174 1.0223,0.39174 1.4141,0 0.39174,-0.39174 0.39174,-1.0223 0,-1.4141 l -6.3633,-6.3633 c -0.01502,-0.01502 -0.03118,-0.0291 -0.04687,-0.04297 A 8.5,8.5 0 0 0 41.5116,7.49036 8.5,8.5 0 0 0 34.8944,5.02156 Z m 0.60547,1.9785 a 6.5,6.5 0 0 1 4.5977,1.9043 6.5,6.5 0 0 1 0,9.1934 6.5,6.5 0 0 1 -9.1934,0 6.5,6.5 0 0 1 0,-9.1934 6.5,6.5 0 0 1 4.5957,-1.9043 z"
        fill="currentColor"
        id="path363" />
+  </g>
+  <g
+     id="22-22-system-run"
+     transform="translate(282,49)">
+    <rect
+       width="22"
+       height="22"
+       fill="currentColor"
+       opacity="0.00100002"
+       id="rect1558"
+       x="-22"
+       y="0" />
+    <path
+       id="path1560"
+       class="ColorScheme-Text"
+       d="m -15.999996,3 c -1.661991,0 -3,1.3380091 -3,3 v 10 c 0,1.66199 1.338009,3 3,3 h 10 c 1.6619909,0 3,-1.33801 3,-3 V 6 c 0,-1.6619909 -1.3380091,-3 -3,-3 z m 0,2 h 10 c 0.5539994,0 1,0.4460006 1,1 v 10 c 0,0.553999 -0.4460006,1 -1,1 h -10 c -0.553999,0 -1,-0.446001 -1,-1 V 6 c 0,-0.5539994 0.446001,-1 1,-1 z"
+       fill="currentColor" />
+    <path
+       id="path528"
+       d="m -13,8 v 6 l 5,-3 z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+  </g>
+  <g
+     id="system-run"
+     transform="translate(85.5,-3)">
+    <rect
+       width="32"
+       height="32"
+       fill="currentColor"
+       opacity="0.00100002"
+       id="rect437"
+       x="168.5"
+       y="9"
+       style="stroke-width:1.45455" />
+    <path
+       id="rect507"
+       d="m 181.5,20.500001 v 8.999998 L 189,25 Z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+    <path
+       id="rect634"
+       class="ColorScheme-Text"
+       d="m 176.5,13 c -2.216,0 -4,1.784004 -4,4 v 16 c 0,2.215996 1.784,4 4,4 h 16 c 2.216,0 4,-1.784004 4,-4 V 17 c 0,-2.215996 -1.784,-4 -4,-4 z m 0,2 h 16 c 1.108,0 2,0.892001 2,2 v 16 c 0,1.107999 -0.892,2 -2,2 h -16 c -1.108,0 -2,-0.892001 -2,-2 V 17 c 0,-1.107999 0.892,-2 2,-2 z"
+       fill="currentColor" />
   </g>
 </svg>
