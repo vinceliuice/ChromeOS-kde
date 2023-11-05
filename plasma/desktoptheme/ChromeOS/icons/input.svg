@@ -1,50 +1,215 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
+<svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#dfdfdf;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
  </defs>
- <rect width="22" height="22" rx="0" ry="0" fill="#eff0f1" fill-opacity=".0039216" opacity=".01"/>
- <g id="input-mouse-battery" transform="translate(28)">
-  <rect width="22" height="22" opacity="0"/>
-  <path class="ColorScheme-Text" d="m10 3c-2.8108 0.25154-5 2.6018-5 5.4844v0.5h5v-5.9844zm1 0v5.9844h5v-0.5c0-2.8825-2.1892-5.2328-5-5.4844zm-6 6.9863v3.5059c0 3.0515 2.453 5.5078 5.5 5.5078s5.5-2.4563 5.5-5.5078v-3.5059h-11zm6 1.0137v3h2l-3 4v-3h-2l3-4z" enable-background="new" fill="currentColor"/>
+ <g id="22-22-input-mouse-battery" transform="translate(-325.99 -310.36)">
+  <rect x="326" y="534.36" width="22" height="22" ry="0" fill="none"/>
+  <path class="ColorScheme-Text" transform="translate(325.99,310.36)" d="m13.51 227c-3.047 0-5.5 2.676-5.5 6v4c0 3.324 2.453 6 5.5 6s5.5-2.676 5.5-6v-4c0-3.324-2.453-6-5.5-6zm-0.009766 2c1.939 0 3.5 1.561 3.5 3.5v5c0 1.939-1.561 3.5-3.5 3.5s-3.5-1.561-3.5-3.5v-5c0-1.939 1.561-3.5 3.5-3.5z" fill="currentColor"/>
+  <path class="ColorScheme-Text" d="m331 537.36-2 5h2v3l2-5h-2z" fill="currentColor"/>
+  <rect class="ColorScheme-Text" x="338.99" y="541.36" width="1" height="3" rx=".5" ry=".5" fill="currentColor"/>
  </g>
- <g id="22-22-input-keyboard-battery">
-  <rect width="22" height="22" opacity="0"/>
-  <path class="ColorScheme-Text" d="m5 5c-1.108 0-2 0.892-2 2v8c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-8c0-1.108-0.892-2-2-2h-12zm-1 2h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v3h2l-3 4v-3h-2l3-4v-2zm-12 3h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm-5 3h7v2h-7v-2z" fill="currentColor"/>
- </g>
- <g id="22-22-input-keyboard-brightness" transform="translate(-28)">
-  <rect width="22" height="22" opacity="0"/>
-  <path class="ColorScheme-Text" d="m5 5c-1.108 0-2 0.892-2 2v8c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-8c0-1.108-0.892-2-2-2zm-1 2h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2zm-12 3h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2zm5.5 0c1.3807 0 2.5 1.1193 2.5 2.5s-1.1193 2.5-2.5 2.5-2.5-1.1193-2.5-2.5 1.1193-2.5 2.5-2.5zm-0.5 1v3c0.82843 0 2 0 2-1.5s-1.1716-1.5-2-1.5zm-10 2h7v2h-7z" fill="currentColor"/>
- </g>
- <g id="input-keyboard-brightness">
-  <rect x="-28" y="-39" width="32" height="32" opacity="0"/>
-  <path class="ColorScheme-Text" d="m-12.5-35v1.041a3 3 0 0 0-1.2344 0.51758l-0.74023-0.74024-0.70703 0.70703 0.73828 0.73828a3 3 0 0 0-0.50977 1.2363h-1.0469v1h1.041a3 3 0 0 0 0.51758 1.2344l-0.74024 0.74023 0.70703 0.70703 0.73828-0.73828a3 3 0 0 0 1.2363 0.50977v1.0469h-8.5c-1.662 0-3 1.1887-3 2.666v10.668c0 1.4773 1.338 2.666 3 2.666h18c1.662 0 3-1.1887 3-2.666v-10.668c0-1.4773-1.338-2.666-3-2.666h-8.5v-1.041a3 3 0 0 0 1.2344-0.51758l0.74023 0.74024 0.70703-0.70703-0.73828-0.73828a3 3 0 0 0 0.50977-1.2363h1.0469v-1h-1.041a3 3 0 0 0-0.51758-1.2344l0.74023-0.74023-0.70703-0.70703-0.73828 0.73828a3 3 0 0 0-1.2363-0.50977v-1.0469h-1zm-9.5 11h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm-18 3h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm-18 3h2v2h-2v-2zm4 0h12v2h-12v-2zm14 0h2v2h-2v-2z" fill="currentColor"/>
- </g>
- <g id="input-keyboard-battery">
-  <rect x="7" y="-39" width="32" height="32" opacity="0"/>
-  <path class="ColorScheme-Text" d="m24-35-4 5h2v3l4-5h-2v-3zm-2 8h-8c-1.662 0-3 1.1887-3 2.666v10.668c0 1.4773 1.338 2.666 3 2.666h18c1.662 0 3-1.1887 3-2.666v-10.668c0-1.4773-1.338-2.666-3-2.666h-10zm-9 3h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm-18 3h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm-18 3h2v2h-2v-2zm4 0h12v2h-12v-2zm14 0h2v2h-2v-2z" fill="currentColor"/>
- </g>
- <g id="input-caps-on" transform="translate(-4.4746 24.144)">
-  <rect width="22" height="22" opacity=".001"/>
-  <g transform="matrix(.99992 0 0 1 .00056617 1.4288e-8)">
-   <path class="ColorScheme-Text" d="m3.0004 16.203v0.547c0 1.212 1.0381 2.25 2.25 2.25h11.5c1.212 0 2.25-1.038 2.25-2.25v-0.547c-0.532 0.485-1.225 0.797-2 0.797h-12c-0.7746 0-1.4684-0.312-2-0.797zm8.0792-9.9061-1.0796 3.9921h2.1796zm-1.1808-1.2969h2.3146l2.91 9h-1.91l-0.609-2h-3.0767l-0.6171 2h-1.9102zm-3.8984-2c-1.0193-1.709e-4 -1.8757 0.76621-1.9883 1.7793l-1 8.9997c-0.13161 1.185 0.79606 2.2212 1.9883 2.221h12c1.1921 1.4e-5 2.1196-1.0362 1.988-2.221l-1-8.9997c-0.11256-1.013-0.96879-1.7793-1.988-1.7793z" fill="currentColor"/>
+ <g id="22-22-input-keyboard" transform="translate(0,-22)">
+  <rect y="22" width="22" height="22" rx="0" ry="0" fill="none"/>
+  <g class="ColorScheme-Text" transform="translate(0,2)" fill="currentColor">
+   <path d="m4 24c-1.662 0-3 1.338-3 3v8c0 1.662 1.338 3 3 3h14c1.662 0 3-1.338 3-3v-8c0-1.662-1.338-3-3-3zm0 2h14c0.554 0 1 0.446 1 1v8c0 0.554-0.446 1-1 1h-14c-0.554 0-1-0.446-1-1v-8c0-0.554 0.446-1 1-1z"/>
+   <circle cx="17" cy="34" r="1"/>
+   <rect x="7" y="33" width="8" height="2" rx="1" ry="1"/>
+   <circle cx="17" cy="31" r="1"/>
+   <circle cx="17" cy="28" r="1"/>
+   <circle cx="14" cy="31" r="1"/>
+   <circle cx="14" cy="28" r="1"/>
+   <circle cx="11" cy="31" r="1"/>
+   <circle cx="11" cy="28" r="1"/>
+   <circle cx="8" cy="31" r="1"/>
+   <circle cx="8" cy="28" r="1"/>
+   <circle cx="5" cy="31" r="1"/>
+   <circle cx="5" cy="28" r="1"/>
+   <circle cx="5" cy="34" r="1"/>
   </g>
  </g>
- <g id="22-22-input-keyboard" transform="matrix(3.7795 0 0 3.7795 -147.11 -144.19)">
-  <rect x="31.485" y="53.848" width="5.8208" height="5.8208" opacity="0" stroke-width=".1791"/>
-  <path transform="scale(.26458)" d="m123 207.52c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h14c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm1 2c0.554 0 1 0.446 1 1s-0.446 1-1 1-1-0.446-1-1 0.446-1 1-1zm3 0c0.554 0 1 0.446 1 1s-0.446 1-1 1-1-0.446-1-1 0.446-1 1-1zm3 0c0.554 0 1 0.446 1 1s-0.446 1-1 1-1-0.446-1-1 0.446-1 1-1zm3 0c0.554 0 1 0.446 1 1s-0.446 1-1 1-1-0.446-1-1 0.446-1 1-1zm3 0c0.554 0 1 0.446 1 1s-0.446 1-1 1-1-0.446-1-1 0.446-1 1-1zm-12 3c0.554 0 1 0.446 1 1s-0.446 1-1 1-1-0.446-1-1 0.446-1 1-1zm3 0c0.554 0 1 0.446 1 1s-0.446 1-1 1-1-0.446-1-1 0.446-1 1-1zm3 0c0.554 0 1 0.446 1 1s-0.446 1-1 1-1-0.446-1-1 0.446-1 1-1zm3 0c0.554 0 1 0.446 1 1s-0.446 1-1 1-1-0.446-1-1 0.446-1 1-1zm3 0c0.554 0 1 0.446 1 1s-0.446 1-1 1-1-0.446-1-1 0.446-1 1-1zm-10 4h8c0.554 0 1 0.446 1 1s-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1s0.446-1 1-1z" fill="#dedede"/>
+ <g id="22-22-input-keyboard-virtual-on">
+  <rect x="25" width="22" height="22" rx="0" ry="0" fill="none"/>
+  <g class="ColorScheme-Text" transform="translate(25,-20)" fill="currentColor">
+   <path transform="translate(-25,20)" d="m29 4c-1.662 0-3 1.338-3 3v8c0 1.662 1.338 3 3 3h12.768a3 3 0 0 1-0.76758-2h-12c-0.554 0-1-0.446-1-1v-8c0-0.554 0.446-1 1-1h14c0.554 0 1 0.446 1 1v6a3 3 0 0 1 2 0.76367v-6.7637c0-1.662-1.338-3-3-3h-14z"/>
+   <rect x="7" y="33" width="8" height="2" rx="1" ry="1"/>
+   <circle cx="17" cy="31" r="1"/>
+   <circle cx="17" cy="28" r="1"/>
+   <circle cx="14" cy="31" r="1"/>
+   <circle cx="14" cy="28" r="1"/>
+   <circle cx="11" cy="31" r="1"/>
+   <circle cx="11" cy="28" r="1"/>
+   <circle cx="8" cy="31" r="1"/>
+   <circle cx="8" cy="28" r="1"/>
+   <circle cx="5" cy="31" r="1"/>
+   <circle cx="5" cy="28" r="1"/>
+   <circle cx="5" cy="34" r="1"/>
+  </g>
+  <path d="m44 14a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2z" fill="#42d15b" stroke-width=".8"/>
  </g>
- <g id="input-keyboard" transform="translate(-28.114 59.328)" stroke-linecap="round" stroke-linejoin="round">
-  <rect x="30" y="-5" width="32" height="32" fill="none" stroke-width="1.8286"/>
-  <path d="m34 3c-1.108 0-2 0.892-2 2v12c0 1.108 0.892 2 2 2h24c1.108 0 2-0.892 2-2v-12c0-1.108-0.892-2-2-2zm1.4785 3h1.043c0.2649 0 0.47852 0.21361 0.47852 0.47852v1.043c0 0.2649-0.21361 0.47852-0.47852 0.47852h-1.043c-0.2649 0-0.47852-0.21361-0.47852-0.47852v-1.043c0-0.2649 0.21361-0.47852 0.47852-0.47852zm4 0h1.043c0.2649 0 0.47852 0.21361 0.47852 0.47852v1.043c0 0.2649-0.21361 0.47852-0.47852 0.47852h-1.043c-0.2649 0-0.47852-0.21361-0.47852-0.47852v-1.043c0-0.2649 0.21361-0.47852 0.47852-0.47852zm4 0h1.043c0.2649 0 0.47852 0.21361 0.47852 0.47852v1.043c0 0.2649-0.21361 0.47852-0.47852 0.47852h-1.043c-0.2649 0-0.47852-0.21361-0.47852-0.47852v-1.043c0-0.2649 0.21361-0.47852 0.47852-0.47852zm4 0h1.043c0.2649 0 0.47852 0.21361 0.47852 0.47852v1.043c0 0.2649-0.21361 0.47852-0.47852 0.47852h-1.043c-0.2649 0-0.47852-0.21361-0.47852-0.47852v-1.043c0-0.2649 0.21361-0.47852 0.47852-0.47852zm4 0h1.043c0.2649 0 0.47852 0.21361 0.47852 0.47852v1.043c0 0.2649-0.21361 0.47852-0.47852 0.47852h-1.043c-0.2649 0-0.47852-0.21361-0.47852-0.47852v-1.043c0-0.2649 0.21361-0.47852 0.47852-0.47852zm4 0h1.043c0.2649 0 0.47852 0.21361 0.47852 0.47852v1.043c0 0.2649-0.21361 0.47852-0.47852 0.47852h-1.043c-0.2649 0-0.47852-0.21361-0.47852-0.47852v-1.043c0-0.2649 0.21361-0.47852 0.47852-0.47852zm-20 4h1.043c0.2649 0 0.47852 0.21361 0.47852 0.47852v1.043c0 0.2649-0.21361 0.47852-0.47852 0.47852h-1.043c-0.2649 0-0.47852-0.21361-0.47852-0.47852v-1.043c0-0.2649 0.21361-0.47852 0.47852-0.47852zm4 0h1.043c0.2649 0 0.47852 0.21361 0.47852 0.47852v1.043c0 0.2649-0.21361 0.47852-0.47852 0.47852h-1.043c-0.2649 0-0.47852-0.21361-0.47852-0.47852v-1.043c0-0.2649 0.21361-0.47852 0.47852-0.47852zm4 0h1.043c0.2649 0 0.47852 0.21361 0.47852 0.47852v1.043c0 0.2649-0.21361 0.47852-0.47852 0.47852h-1.043c-0.2649 0-0.47852-0.21361-0.47852-0.47852v-1.043c0-0.2649 0.21361-0.47852 0.47852-0.47852zm4 0h1.043c0.2649 0 0.47852 0.21361 0.47852 0.47852v1.043c0 0.2649-0.21361 0.47852-0.47852 0.47852h-1.043c-0.2649 0-0.47852-0.21361-0.47852-0.47852v-1.043c0-0.2649 0.21361-0.47852 0.47852-0.47852zm4 0h1.043c0.2649 0 0.47852 0.21361 0.47852 0.47852v1.043c0 0.2649-0.21361 0.47852-0.47852 0.47852h-1.043c-0.2649 0-0.47852-0.21361-0.47852-0.47852v-1.043c0-0.2649 0.21361-0.47852 0.47852-0.47852zm4 0h1.043c0.2649 0 0.47852 0.21361 0.47852 0.47852v1.043c0 0.2649-0.21361 0.47852-0.47852 0.47852h-1.043c-0.2649 0-0.47852-0.21361-0.47852-0.47852v-1.043c0-0.2649 0.21361-0.47852 0.47852-0.47852zm-17.861 4h16.766c0.34208 0 0.61719 0.27511 0.61719 0.61719v0.76562c0 0.34208-0.27511 0.61719-0.61719 0.61719h-16.766c-0.34208 0-0.61719-0.27511-0.61719-0.61719v-0.76562c0-0.34208 0.27511-0.61719 0.61719-0.61719z" fill="#dedede" stroke-width="2.1112"/>
+ <g id="22-22-input-keyboard-virtual-off" transform="translate(25)">
+  <rect x="25" width="22" height="22" rx="0" ry="0" fill="none"/>
+  <g class="ColorScheme-Text" transform="translate(25,-20)" fill="currentColor">
+   <path transform="translate(-25,20)" d="m29 4c-1.662 0-3 1.338-3 3v8c0 1.662 1.338 3 3 3h12.768a3 3 0 0 1-0.76758-2h-12c-0.554 0-1-0.446-1-1v-8c0-0.554 0.446-1 1-1h14c0.554 0 1 0.446 1 1v6a3 3 0 0 1 2 0.76367v-6.7637c0-1.662-1.338-3-3-3z"/>
+   <rect x="7" y="33" width="8" height="2" rx="1" ry="1"/>
+   <circle cx="17" cy="31" r="1"/>
+   <circle cx="17" cy="28" r="1"/>
+   <circle cx="14" cy="31" r="1"/>
+   <circle cx="14" cy="28" r="1"/>
+   <circle cx="11" cy="31" r="1"/>
+   <circle cx="11" cy="28" r="1"/>
+   <circle cx="8" cy="31" r="1"/>
+   <circle cx="8" cy="28" r="1"/>
+   <circle cx="5" cy="31" r="1"/>
+   <circle cx="5" cy="28" r="1"/>
+   <circle cx="5" cy="34" r="1"/>
+  </g>
+  <path class="ColorScheme-Text" d="m44 14a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2z" fill="currentColor" opacity=".35"/>
+ </g>
+ <g id="input-keyboard-virtual-on">
+  <rect x="36" y="35" width="32" height="32" rx="0" ry="0" fill="none" stroke-width="1.4546"/>
+  <g class="ColorScheme-Text" transform="translate(36)" fill="currentColor">
+   <rect x="9" y="55" width="14" height="2" rx="1" ry="1" stroke-width="1.0801"/>
+   <circle cx="6" cy="48" r="1" stroke-width=".6875"/>
+   <path transform="translate(-36)" d="m41 42c-2.216 0-4 1.784-4 4v12c0 2.216 1.784 4 4 4h20.357a4 4 0 0 1-1.2227-2h-19.135c-1.108 0-2-0.892-2-2v-12c0-1.108 0.892-2 2-2h22c1.108 0 2 0.892 2 2v9.127a4 4 0 0 1 2 1.2305v-10.357c0-2.216-1.784-4-4-4h-22z"/>
+   <circle cx="10" cy="48" r="1" stroke-width=".6875"/>
+   <circle cx="14" cy="48" r="1" stroke-width=".6875"/>
+   <circle cx="18" cy="48" r="1" stroke-width=".6875"/>
+   <circle cx="22" cy="48" r="1" stroke-width=".6875"/>
+   <circle cx="26" cy="48" r="1" stroke-width=".6875"/>
+   <circle cx="6" cy="52" r="1" stroke-width=".6875"/>
+   <circle cx="10" cy="52" r="1" stroke-width=".6875"/>
+   <circle cx="14" cy="52" r="1" stroke-width=".6875"/>
+   <circle cx="18" cy="52" r="1" stroke-width=".6875"/>
+   <circle cx="22" cy="52" r="1" stroke-width=".6875"/>
+   <circle cx="26" cy="52" r="1" stroke-width=".6875"/>
+   <circle cx="6" cy="56" r="1" stroke-width=".6875"/>
+  </g>
+  <path d="m64 56a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3z" fill="#42d15b" stroke-width="1.2"/>
+ </g>
+ <g id="input-keyboard">
+  <rect y="35" width="32" height="32" rx="0" ry="0" fill="none" stroke-width="1.4546"/>
+  <g class="ColorScheme-Text" fill="currentColor">
+   <rect x="9" y="55" width="14" height="2" rx="1" ry="1" stroke-width="1.0801"/>
+   <circle cx="6" cy="48" r="1" stroke-width=".6875"/>
+   <path d="m5 42c-2.216 0-4 1.784-4 4v12c0 2.216 1.784 4 4 4h22c2.216 0 4-1.784 4-4v-12c0-2.216-1.784-4-4-4zm0 2h22c1.108 0 2 0.892 2 2v12c0 1.108-0.892 2-2 2h-22c-1.108 0-2-0.892-2-2v-12c0-1.108 0.892-2 2-2z"/>
+   <circle cx="10" cy="48" r="1" stroke-width=".6875"/>
+   <circle cx="14" cy="48" r="1" stroke-width=".6875"/>
+   <circle cx="18" cy="48" r="1"/>
+   <circle cx="22" cy="48" r="1" stroke-width=".6875"/>
+   <circle cx="26" cy="48" r="1" stroke-width=".6875"/>
+   <circle cx="6" cy="52" r="1" stroke-width=".6875"/>
+   <circle cx="10" cy="52" r="1" stroke-width=".6875"/>
+   <circle cx="14" cy="52" r="1" stroke-width=".6875"/>
+   <circle cx="18" cy="52" r="1" stroke-width=".6875"/>
+   <circle cx="22" cy="52" r="1" stroke-width=".6875"/>
+   <circle cx="26" cy="52" r="1" stroke-width=".6875"/>
+   <circle cx="6" cy="56" r="1" stroke-width=".6875"/>
+   <circle cx="26" cy="56" r="1" stroke-width=".6875"/>
+  </g>
+ </g>
+ <g id="input-keyboard-virtual-off">
+  <rect x="72" y="35" width="32" height="32" rx="0" ry="0" fill="none" stroke-width="1.4546"/>
+  <path class="ColorScheme-Text" d="m100 56a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3z" fill="currentColor" opacity=".35" stroke-width="1.5"/>
+  <g class="ColorScheme-Text" transform="translate(72)" fill="currentColor">
+   <rect x="9" y="55" width="14" height="2" rx="1" ry="1" stroke-width="1.0801"/>
+   <circle cx="6" cy="48" r="1" stroke-width=".6875"/>
+   <path transform="translate(-36)" d="m41 42c-2.216 0-4 1.784-4 4v12c0 2.216 1.784 4 4 4h20.357a4 4 0 0 1-1.2227-2h-19.135c-1.108 0-2-0.892-2-2v-12c0-1.108 0.892-2 2-2h22c1.108 0 2 0.892 2 2v9.127a4 4 0 0 1 2 1.2305v-10.357c0-2.216-1.784-4-4-4z"/>
+   <circle cx="10" cy="48" r="1" stroke-width=".6875"/>
+   <circle cx="14" cy="48" r="1" stroke-width=".6875"/>
+   <circle cx="18" cy="48" r="1" stroke-width=".6875"/>
+   <circle cx="22" cy="48" r="1" stroke-width=".6875"/>
+   <circle cx="26" cy="48" r="1" stroke-width=".6875"/>
+   <circle cx="6" cy="52" r="1" stroke-width=".6875"/>
+   <circle cx="10" cy="52" r="1" stroke-width=".6875"/>
+   <circle cx="14" cy="52" r="1" stroke-width=".6875"/>
+   <circle cx="18" cy="52" r="1" stroke-width=".6875"/>
+   <circle cx="22" cy="52" r="1" stroke-width=".6875"/>
+   <circle cx="26" cy="52" r="1" stroke-width=".6875"/>
+   <circle cx="6" cy="56" r="1" stroke-width=".6875"/>
+  </g>
+ </g>
+ <g id="22-22-input-keyboard-battery">
+  <rect x=".01" y="128" width="22" height="22" ry="0" fill="none"/>
+  <path class="ColorScheme-Text" d="m6.9941 131c-1.662 0-3 1.338-3 3v7c0 2 1 3.0002 3 4l4.0059 2.002 3.9941-2.002c1.9955-1 3-2 3-4v-1h-1.9941v1c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-7c0-0.554 0.446-1 1-1h7v-2h-7.0059z" fill="currentColor"/>
+  <path class="ColorScheme-Text" d="m16.01 131-2 5h2v3l2-5h-2zm-5.5723 3.002-2.4375 6h1.0742l0.40625-1h3.0391l0.40625 1h1.0742v-0.00195l-2.4395-5.998h-0.53711l-0.02344 0.01-0.02344-0.01zm0.5625 1.2578 1.1133 2.7422h-2.2266z" fill="currentColor"/>
+ </g>
+ <g id="input-keyboard-battery">
+  <rect x="22.01" y="118" width="32" height="32" ry="0" fill="none"/>
+  <path class="ColorScheme-Text" d="m33.01 123c-2.77 0-5 2.23-5 5v12c0 2.77 3 4.2 5 5l5 2 5-2c2-0.8 5-2.23 5-5v-9h-2v7c0 1.662-1.338 3-3 3h-10c-1.662 0-3-1.338-3-3v-10c0-1.662 1.338-3 3-3h9.9902v-2z" fill="currentColor"/>
+  <path class="ColorScheme-Text" d="m46.01 122-2 5h2v3l2-5h-2zm-9.0957 6-3.6602 10h1.9746l0.81445-2.4941h3.8555l0.80664 2.4941h2.0605l-3.4727-10zm1.0645 1.5859 1.3828 4.2637h-2.7754z" fill="currentColor"/>
+ </g>
+ <g id="22-22-input-caps-on">
+  <rect x=".0049989" y="160" width="22" height="22" fill="none"/>
+  <path class="ColorScheme-Text" d="m7 163c-1.662 0-3 1.338-3 3v7c0 2 1 3.0002 3 4l4.0059 2.002 3.9941-2.002c1.9955-1 3-2 3-4v-7c0-1.662-1.338-3-3-3h-8zm0 2h8c0.554 0 1 0.446 1 1v7c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-7c0-0.554 0.446-1 1-1z" fill="currentColor"/>
+  <path class="ColorScheme-Text" d="m10.443 166-2.4375 6h1.0742l0.40625-1h3.0391l0.40625 1h1.0742l-2.4395-6h-0.53711l-0.02344 0.01-0.02344-0.01zm0.5625 1.2578 1.1133 2.7422h-2.2266z" fill="currentColor"/>
+ </g>
+ <g id="input-caps-on">
+  <rect x="22.005" y="150" width="32" height="32" fill="none"/>
+  <path class="ColorScheme-Text" d="m33 155c-2.77 0-5 2.23-5 5v12c0 2.77 3 4.2 5 5l5 2 5-2c2-0.8 5-2.23 5-5v-12c0-2.77-2.23-5-5-5zm0 2h10c1.662 0 3 1.338 3 3v10c0 1.662-1.338 3-3 3h-10c-1.662 0-3-1.338-3-3v-10c0-1.662 1.338-3 3-3z" fill="currentColor"/>
+  <path class="ColorScheme-Text" d="m36.904 160-3.6602 10h1.9746l0.81445-2.4941h3.8555l0.80664 2.4941h2.0605l-3.4727-10zm1.0645 1.5859 1.3828 4.2637h-2.7754z" fill="currentColor"/>
+ </g>
+ <g id="22-22-input-keyboard-brightness" transform="translate(68,-2)">
+  <rect x="-67.995" y="98.002" width="22" height="22" fill="none"/>
+  <path class="ColorScheme-Text" transform="translate(-68,2)" d="m7 99c-1.662 0-3 1.338-3 3v7c0 2 1 3.0002 3 4l4.0059 2.002 3.9941-2.002c1.9955-1 3-2 3-4v-5h-2v5c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-7c0-0.554 0.446-1 1-1h6v-2z" fill="currentColor"/>
+  <path class="ColorScheme-Text" d="m-52 101c-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2-0.89543-2-2-2zm0 1v2c-0.55228 0-1-0.44771-1-1 0-0.55228 0.44772-1 1-1zm-5.5566 2.002-2.4375 6h1.0742l0.40625-1h3.0391l0.40625 1h1.0742l-2.4395-6h-0.53711l-0.02344 0.01-0.02344-0.01zm0.5625 1.2578 1.1133 2.7422h-2.2266z" fill="currentColor"/>
+ </g>
+ <g id="input-keyboard-brightness" transform="translate(68,-2)">
+  <rect x="-45.995" y="88.004" width="32" height="32" fill="none"/>
+  <path class="ColorScheme-Text" d="m-35 93c-2.77 0-5 2.23-5 5v12c0 2.77 3 4.2 5 5l5 2 5-2c2-0.8 5-2.23 5-5v-7h-2v5c0 1.662-1.338 3-3 3h-10c-1.662 0-3-1.338-3-3v-10c0-1.662 1.338-3 3-3h7v-2z" fill="currentColor"/>
+  <path class="ColorScheme-Text" d="m-23 92c-0.277 0-0.5 0.223-0.5 0.5v1c0 0.277 0.223 0.5 0.5 0.5s0.5-0.223 0.5-0.5v-1c0-0.277-0.223-0.5-0.5-0.5zm-3.1816 1.3184c-0.12781 0-0.25558 0.04851-0.35352 0.14648-0.19587 0.19587-0.19587 0.51116 0 0.70703l0.70703 0.70703c0.19587 0.19587 0.51116 0.19587 0.70703 0s0.19587-0.51116 0-0.70703l-0.70703-0.70703c-0.09793-0.0979-0.22571-0.14648-0.35352-0.14648zm6.3633 0c-0.12781 0-0.25558 0.04851-0.35352 0.14648l-0.70703 0.70703c-0.19586 0.19587-0.19586 0.51116 0 0.70703 0.19587 0.19587 0.51117 0.19587 0.70703 0l0.70703-0.70703c0.19586-0.19587 0.19586-0.51116 0-0.70703-0.0979-0.0979-0.2257-0.14648-0.35352-0.14648zm-3.1816 1.6816c-1.1046 0-2 0.89543-2 2s0.89543 2 2 2c1.1046 0 2-0.89543 2-2s-0.89543-2-2-2zm0 1v2c-0.55228 0-1-0.44772-1-1s0.44772-1 1-1zm-4.5 0.5c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h1c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5zm8 0c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h1c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5zm-11.596 1.5-3.6602 10h1.9746l0.81445-2.4941h3.8555l0.80664 2.4941h2.0605l-3.4727-10zm5.6211 0.97461c-0.12781 0-0.25558 0.0486-0.35352 0.14648l-0.70703 0.70703c-0.19587 0.19586-0.19587 0.51116 0 0.70704s0.51116 0.19587 0.70703 0l0.70703-0.70704c0.19587-0.19587 0.19587-0.51116 0-0.70703-0.09793-0.0979-0.2257-0.14648-0.35352-0.14648zm4.9492 0c-0.12781 0-0.25558 0.0486-0.35352 0.14648-0.19586 0.19587-0.19586 0.51116 0 0.70703l0.70703 0.70704c0.19587 0.19587 0.51116 0.19587 0.70703 0 0.19586-0.19587 0.19586-0.51117 0-0.70704l-0.70703-0.70703c-0.0979-0.0979-0.22571-0.14648-0.35352-0.14648zm-9.5059 0.61133 1.3828 4.2637h-2.7754zm7.0312 0.41406c-0.277 0-0.5 0.223-0.5 0.5v1c0 0.277 0.223 0.5 0.5 0.5s0.5-0.223 0.5-0.5v-1c0-0.277-0.223-0.5-0.5-0.5z" fill="currentColor"/>
+ </g>
+ <g id="22-22-input-num-on">
+  <rect x=".0049989" y="192" width="22" height="22" fill="none"/>
+  <path class="ColorScheme-Text" d="m7 195c-1.662 0-3 1.338-3 3v7c0 2 1 3.0002 3 4l4.0059 2.002 3.9941-2.002c1.9955-1 3-2 3-4v-7c0-1.662-1.338-3-3-3h-8zm0 2h8c0.554 0 1 0.446 1 1v7c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-7c0-0.554 0.446-1 1-1z" fill="currentColor"/>
+  <path class="ColorScheme-Text" d="m11 198v1h-1v1h1v4h-1v1h3v-1h-1v-6z" fill="currentColor"/>
+ </g>
+ <g id="input-num-on">
+  <rect x="22.005" y="182" width="32" height="32" fill="none"/>
+  <path class="ColorScheme-Text" d="m33 187c-2.77 0-5 2.23-5 5v12c0 2.77 3 4.2 5 5l5 2 5-2c2-0.8 5-2.23 5-5v-12c0-2.77-2.23-5-5-5zm0 2h10c1.662 0 3 1.338 3 3v10c0 1.662-1.338 3-3 3h-10c-1.662 0-3-1.338-3-3v-10c0-1.662 1.338-3 3-3z" fill="currentColor"/>
+  <path class="ColorScheme-Text" d="m37 192v2h-2v2h2v4h-2v2h6v-2h-2v-8z" fill="currentColor"/>
+ </g>
+ <g id="16-16-input-mouse-battery">
+  <path class="ColorScheme-Text" d="m-7.99 234-2 5h2v3l2-5h-2z" fill="currentColor"/>
+  <rect x="-15.99" y="230" width="16" height="16" fill="none"/>
+  <path class="ColorScheme-Text" d="m-8 231c-2.77 0-5 2.23-5 5v4c0 2.77 2.23 5 5 5s5-2.23 5-5v-4c0-2.77-2.23-5-5-5zm0 2c1.662 0 3 1.338 3 3v4c0 1.662-1.338 3-3 3s-3-1.338-3-3v-4c0-1.662 1.338-3 3-3z" fill="currentColor"/>
+ </g>
+ <g id="input-mouse-battery">
+  <g transform="translate(-2 -10)">
+   <rect x="27" y="224" width="32" height="32" ry="0" fill="none"/>
+  </g>
+  <path class="ColorScheme-Text" d="m41 217c-4.986 0-9 4.014-9 9v8c0 4.986 4.014 9 9 9s9-4.014 9-9v-8c0-4.986-4.014-9-9-9zm0 2c3.878 0 7 3.122 7 7v8c0 3.878-3.122 7-7 7s-7-3.122-7-7v-8c0-3.878 3.122-7 7-7z" fill="currentColor"/>
+  <path class="ColorScheme-Text" d="m41 221c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1s1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm0 8-3 6h3v4l3-6h-3v-4z" fill="currentColor"/>
  </g>
 </svg>
