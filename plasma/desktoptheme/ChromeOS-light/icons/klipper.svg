@@ -4,79 +4,84 @@
    version="1.1"
    viewBox="0 0 22 22"
    sodipodi:docname="klipper.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview22"
+     id="namedview20"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="3.3011364"
-     inkscape:cx="7.5731497"
-     inkscape:cy="-12.571429"
+     showgrid="true"
+     inkscape:zoom="18.674047"
+     inkscape:cx="32.531781"
+     inkscape:cy="9.4783953"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg" />
-  <metadata
-     id="metadata2">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+     inkscape:current-layer="22-22-klipper"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
   <defs
-     id="defs5">
+     id="defs3">
     <style
        id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#333333; }</style>
+       type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
   </defs>
   <g
-     id="klipper">
+     id="22-22-klipper">
     <rect
        class="ColorScheme-Text"
        width="22"
        height="22"
-       color="#333333"
+       color="#dedede"
        fill-opacity="0"
-       id="rect7" />
-    <g
-       transform="translate(-298 -26)"
-       enable-background="new"
-       id="g13">
-      <rect
-         transform="scale(1,-1)"
-         x="301"
-         y="-45"
-         width="16"
-         height="16"
-         color="#bebebe"
-         enable-background="new"
-         fill="none"
-         id="rect9" />
-      <path
-         transform="translate(237 -445)"
-         d="m72 474c-1.1046 0-2 0.89543-2 2h-3c-1 0-1 1-1 1v11c0 1 1 1 1 1h10s1 0 1-1v-11c0-1-1-1-1-1h-3c0-0.13807-0.0046-0.27605-0.03125-0.40625-0.18649-0.91137-1.0022-1.5938-1.9688-1.5938zm0 1c0.41421 0 0.75444 0.26608 0.90625 0.625 0.0506 0.11964 0.09375 0.23693 0.09375 0.375 0 0.55228-0.44771 1-1 1s-1-0.44772-1-1 0.44771-1 1-1zm-4 3h1v1h6v-1h1v9h-8z"
-         color="#000000"
-         enable-background="accumulate"
-         fill="#333"
-         id="path11" />
-    </g>
+       id="rect5" />
+    <path
+       d="M 11,3 C 9.8954,3 9,3.89543 9,5 H 6 C 5,5 5,6 5,6 v 11 c 0,1 1,1 1,1 h 10 c 0,0 1,0 1,-1 V 6 C 17,5 16,5 16,5 H 13 C 13,4.86193 12.9954,4.72395 12.96875,4.59375 12.78226,3.68238 11.96655,2.99995 10.99995,2.99995 Z m 0,1 c 0.41421,0 0.75444,0.26608 0.90625,0.625 C 11.95685,4.74464 12,4.86193 12,5 12,5.55228 11.55229,6 11,6 10.44771,6 10,5.55228 10,5 10,4.44772 10.44771,4 11,4 Z M 7,7 h 1 v 1 h 6 V 7 h 1 v 9 H 7 Z"
+       id="path9"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+  </g>
+  <g
+     id="klipper">
+    <rect
+       id="rect2"
+       width="32"
+       height="32"
+       x="23"
+       y="-5"
+       rx="0"
+       ry="0"
+       style="fill:none" />
+    <path
+       id="rect3"
+       d="M 39 0 A 3 3 0 0 0 36.179688 2 L 33 2 C 31.338006 2 30 3.3380051 30 5 L 30 19 C 30 20.661994 31.338006 22 33 22 L 45 22 C 46.661994 22 48 20.661994 48 19 L 48 5 C 48 3.3380051 46.661994 2 45 2 L 41.828125 2 A 3 3 0 0 0 39 0 z M 39 2 A 1 1 0 0 1 40 3 A 1 1 0 0 1 39.978516 3.1796875 A 1 1 0 0 1 39.902344 3.4277344 A 1 1 0 0 1 39.759766 3.6445312 A 1 1 0 0 1 39.708984 3.6953125 A 1 1 0 0 1 39.566406 3.8164062 A 1 1 0 0 1 39.492188 3.8632812 A 1 1 0 0 1 39.337891 3.9335938 A 1 1 0 0 1 39.25 3.9648438 A 1 1 0 0 1 39 4 A 1 1 0 0 1 38.75 3.9648438 A 1 1 0 0 1 38.662109 3.9335938 A 1 1 0 0 1 38.507812 3.8632812 A 1 1 0 0 1 38.433594 3.8164062 A 1 1 0 0 1 38.291016 3.6953125 A 1 1 0 0 1 38.240234 3.6445312 A 1 1 0 0 1 38.097656 3.4277344 A 1 1 0 0 1 38.021484 3.1796875 A 1 1 0 0 1 38 3 A 1 1 0 0 1 39 2 z M 33 4 L 34 4 L 34 5 C 34 6.1079967 34.892003 7 36 7 L 42 7 C 43.107997 7 44 6.1079967 44 5 L 44 4 L 45 4 C 45.553997 4 46 4.4460018 46 5 L 46 19 C 46 19.553997 45.553997 20 45 20 L 33 20 C 32.446003 20 32 19.553997 32 19 L 32 5 C 32 4.4460018 32.446003 4 33 4 z "
+       fill="currentColor"
+       class="ColorScheme-Text" />
   </g>
 </svg>
