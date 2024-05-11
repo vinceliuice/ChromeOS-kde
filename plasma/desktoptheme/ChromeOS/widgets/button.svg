@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="220"
    height="212"
    version="1.0"
    id="svg414"
    sodipodi:docname="button.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <g
      id="toolbutton-hover-right"
      transform="matrix(-0.59999971,0,0,0.49999967,160.59998,61.000052)"
@@ -341,13 +341,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="696"
+     inkscape:window-width="1920"
+     inkscape:window-height="954"
      id="namedview416"
      showgrid="true"
-     inkscape:zoom="2"
-     inkscape:cx="56.118662"
-     inkscape:cy="97.344488"
+     inkscape:zoom="11.313708"
+     inkscape:cx="47.243572"
+     inkscape:cy="129.93087"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -357,10 +357,19 @@
      inkscape:bbox-paths="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-nodes="false"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid1331" />
+       id="grid1331"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs18">
@@ -685,8 +694,7 @@
        style="color:currentColor;opacity:0.15;fill:#ffffff;stroke-width:1.25002" />
   </g>
   <path
-     style="color:currentColor;opacity:1;fill:currentColor;stroke-width:0.707106"
-     inkscape:connector-curvature="0"
+     style="fill:currentColor"
      d="m 41,162.99999 v 23.99996 h 48 v -23.99996 z"
      class="ColorScheme-Highlight"
      id="pressed-center" />
@@ -831,8 +839,7 @@
        style="color:currentColor;opacity:1;fill:currentColor;stroke-width:1.25002" />
   </g>
   <path
-     style="color:currentColor;opacity:1;fill:currentColor;stroke-width:0.707106"
-     inkscape:connector-curvature="0"
+     style="fill:currentColor"
      d="m 41.00004,117 v 23.99997 h 48 V 117 Z"
      class="ColorScheme-Highlight"
      id="focus-center" />
@@ -925,7 +932,6 @@
        class="ColorScheme-Highlight"
        d="m 190.14,825.86 v 4 h 131 v -4 z"
        id="path5062"
-       inkscape:connector-curvature="0"
        style="color:currentColor;opacity:1;fill:currentColor" />
     <path
        style="color:currentColor;opacity:1;fill:none;stroke-width:0.707112"
@@ -949,7 +955,6 @@
        class="ColorScheme-Highlight"
        d="m 190.14,825.86 v 4 h 131 v -4 z"
        id="path5030"
-       inkscape:connector-curvature="0"
        style="color:currentColor;opacity:1;fill:currentColor" />
     <path
        style="color:currentColor;opacity:1;fill:none;stroke-width:0.707112"
