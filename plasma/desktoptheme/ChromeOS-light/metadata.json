@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "vinceliuice@hotmail.com",
+                "Name": "Vince Liuice"
+            }
+        ],
+        "Category": "Plasma 6.0 theme",
+        "Description": "ChromeOS light theme by Vince Liuice",
+        "Description[zh_CN]": "ChromeOS light 系统主题，由 Vince Liuice (视觉设计师) 设计制作",
+        "EnabledByDefault": true,
+        "Id": "ChromeOS-light",
+        "License": "GPL-3.0",
+        "Name": "ChromeOS-light",
+        "Version": "6.2.0",
+        "Website": "https://github.com/vinceliuice"
+    },
+    "X-Plasma-API": "5.0"
+}
