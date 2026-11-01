@@ -15,6 +15,7 @@ import org.kde.plasma.private.keyboardindicator as KeyboardIndicator
 import org.kde.kirigami 2.20 as Kirigami
 
 import org.kde.breeze.components
+import org.kde.plasma.workspace.keyboardlayout as Keyboards
 
 Item {
     id: root
@@ -64,7 +65,7 @@ Item {
         anchors.fill: parent
 
         property bool uiVisible: true
-        property bool blockUI: mainStack.depth > 1 || userListComponent.mainPasswordBox.text.length > 0 || inputPanel.keyboardActive || config.type !== "image"
+        property bool blockUI: mainStack.depth > 1 || userListComponent.mainPasswordBox.text.length > 0 || Keyboards.KWinVirtualKeyboard.visible || config.type !== "image"
 
         hoverEnabled: true
         drag.filterChildren: true
@@ -201,7 +202,7 @@ Item {
                     return parts.join(" • ");
                 }
 
-                actionItemsVisible: !inputPanel.keyboardActive
+                actionItemsVisible: !Keyboards.KWinVirtualKeyboard.visible
                 actionItems: [
                     ActionButton {
                         icon.name: "/usr/share/sddm/themes/ChromeOS/assets/suspend_primary.svgz"
@@ -303,17 +304,6 @@ Item {
             }
         }
 
-        VirtualKeyboardLoader {
-            id: inputPanel
-
-            z: 1
-
-            screenRoot: root
-            mainStack: mainStack
-            mainBlock: userListComponent
-            passwordField: userListComponent.mainPasswordBox
-        }
-
         Component {
             id: userPromptComponent
             Login {
@@ -340,7 +330,7 @@ Item {
                     sddm.login(username, password, sessionButton.currentIndex)
                 }
 
-                actionItemsVisible: !inputPanel.keyboardActive
+                actionItemsVisible: !Keyboards.KwinVirtualKeyboard.visible
                 actionItems: [
                     ActionButton {
                         icon.name: "/usr/share/sddm/themes/ChromeOS/assets/suspend_primary.svgz"
@@ -437,12 +427,16 @@ Item {
                 id: virtualKeyboardButton
 
                 text: i18ndc("plasma-desktop-sddm-theme", "Button to show/hide virtual keyboard", "Virtual Keyboard")
-                icon.name: inputPanel.keyboardActive ? "input-keyboard-virtual-on" : "input-keyboard-virtual-off"
+                icon.name: Keyboards.KWinVirtualKeyboard.visible ? "input-keyboard-virtual-on" : "input-keyboard-virtual-off"
                 onClicked: {
-                    // Otherwise the password field loses focus and virtual keyboard
+                  if (Keyboards.KWinVirtualKeyboard.visible) {
+                    Keyboards.KWinVirtualKeyboard.active = false;
+                  } else {
+                    // Otherwise the password field loses focus and on-screen keyboard
                     // keystrokes get eaten
                     userListComponent.mainPasswordBox.forceActiveFocus();
-                    inputPanel.showHide()
+                    Keyboards.KWinVirtualKeyboard.forceActivate();
+                  }
                 }
                 visible: false
 
